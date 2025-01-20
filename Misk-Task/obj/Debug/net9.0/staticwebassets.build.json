@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "oYuR5RNrMZOA6S/0IJHpk7Xr2SM8LAItav+jTgZsBnQ=",
+  "Source": "Misk-Task",
+  "BasePath": "_content/Misk-Task",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

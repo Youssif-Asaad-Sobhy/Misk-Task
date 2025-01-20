@@ -1,0 +1,199 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\Misk-Task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AEA56897-54C9-4AF2-B19E-B8C4C8766A3A}|Misk-Task\\Misk-Task.csproj|c:\\users\\hp\\source\\repos\\misk-task\\misk-task\\middleware\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEA56897-54C9-4AF2-B19E-B8C4C8766A3A}|Misk-Task\\Misk-Task.csproj|solutionrelative:misk-task\\middleware\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEA56897-54C9-4AF2-B19E-B8C4C8766A3A}|Misk-Task\\Misk-Task.csproj|c:\\users\\hp\\source\\repos\\misk-task\\misk-task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEA56897-54C9-4AF2-B19E-B8C4C8766A3A}|Misk-Task\\Misk-Task.csproj|solutionrelative:misk-task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEA56897-54C9-4AF2-B19E-B8C4C8766A3A}|Misk-Task\\Misk-Task.csproj|c:\\users\\hp\\source\\repos\\misk-task\\misk-task\\middleware\\ratelimitingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEA56897-54C9-4AF2-B19E-B8C4C8766A3A}|Misk-Task\\Misk-Task.csproj|solutionrelative:misk-task\\middleware\\ratelimitingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEA56897-54C9-4AF2-B19E-B8C4C8766A3A}|Misk-Task\\Misk-Task.csproj|c:\\users\\hp\\source\\repos\\misk-task\\misk-task\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEA56897-54C9-4AF2-B19E-B8C4C8766A3A}|Misk-Task\\Misk-Task.csproj|solutionrelative:misk-task\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEA56897-54C9-4AF2-B19E-B8C4C8766A3A}|Misk-Task\\Misk-Task.csproj|c:\\users\\hp\\source\\repos\\misk-task\\misk-task\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AEA56897-54C9-4AF2-B19E-B8C4C8766A3A}|Misk-Task\\Misk-Task.csproj|solutionrelative:misk-task\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEA56897-54C9-4AF2-B19E-B8C4C8766A3A}|Misk-Task\\Misk-Task.csproj|c:\\users\\hp\\source\\repos\\misk-task\\misk-task\\models\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEA56897-54C9-4AF2-B19E-B8C4C8766A3A}|Misk-Task\\Misk-Task.csproj|solutionrelative:misk-task\\models\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEA56897-54C9-4AF2-B19E-B8C4C8766A3A}|Misk-Task\\Misk-Task.csproj|c:\\users\\hp\\source\\repos\\misk-task\\misk-task\\models\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEA56897-54C9-4AF2-B19E-B8C4C8766A3A}|Misk-Task\\Misk-Task.csproj|solutionrelative:misk-task\\models\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEA56897-54C9-4AF2-B19E-B8C4C8766A3A}|Misk-Task\\Misk-Task.csproj|c:\\users\\hp\\source\\repos\\misk-task\\misk-task\\extensions\\mappingextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEA56897-54C9-4AF2-B19E-B8C4C8766A3A}|Misk-Task\\Misk-Task.csproj|solutionrelative:misk-task\\extensions\\mappingextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEA56897-54C9-4AF2-B19E-B8C4C8766A3A}|Misk-Task\\Misk-Task.csproj|c:\\users\\hp\\source\\repos\\misk-task\\misk-task\\extensions\\orderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEA56897-54C9-4AF2-B19E-B8C4C8766A3A}|Misk-Task\\Misk-Task.csproj|solutionrelative:misk-task\\extensions\\orderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEA56897-54C9-4AF2-B19E-B8C4C8766A3A}|Misk-Task\\Misk-Task.csproj|c:\\users\\hp\\source\\repos\\misk-task\\misk-task\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEA56897-54C9-4AF2-B19E-B8C4C8766A3A}|Misk-Task\\Misk-Task.csproj|solutionrelative:misk-task\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ErrorHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Misk-Task\\Misk-Task\\Middleware\\ErrorHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "Misk-Task\\Middleware\\ErrorHandlingMiddleware.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Misk-Task\\Misk-Task\\Middleware\\ErrorHandlingMiddleware.cs",
+              "RelativeToolTip": "Misk-Task\\Middleware\\ErrorHandlingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T10:06:12.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Misk-Task\\Misk-Task\\appsettings.json",
+              "RelativeDocumentMoniker": "Misk-Task\\appsettings.json",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Misk-Task\\Misk-Task\\appsettings.json",
+              "RelativeToolTip": "Misk-Task\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-19T19:15:14.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MappingExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Misk-Task\\Misk-Task\\Extensions\\MappingExtensions.cs",
+              "RelativeDocumentMoniker": "Misk-Task\\Extensions\\MappingExtensions.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Misk-Task\\Misk-Task\\Extensions\\MappingExtensions.cs",
+              "RelativeToolTip": "Misk-Task\\Extensions\\MappingExtensions.cs",
+              "ViewState": "AgIAAAwAAACgmZmZmZklwBQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T19:08:48.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Misk-Task\\Misk-Task\\Models\\DTOs\\ProductDto.cs",
+              "RelativeDocumentMoniker": "Misk-Task\\Models\\DTOs\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Misk-Task\\Misk-Task\\Models\\DTOs\\ProductDto.cs",
+              "RelativeToolTip": "Misk-Task\\Models\\DTOs\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T19:06:43.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderDto.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Misk-Task\\Misk-Task\\Models\\DTOs\\OrderDto.cs",
+              "RelativeDocumentMoniker": "Misk-Task\\Models\\DTOs\\OrderDto.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Misk-Task\\Misk-Task\\Models\\DTOs\\OrderDto.cs",
+              "RelativeToolTip": "Misk-Task\\Models\\DTOs\\OrderDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T19:06:07.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Misk-Task\\Misk-Task\\Program.cs",
+              "RelativeDocumentMoniker": "Misk-Task\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Misk-Task\\Misk-Task\\Program.cs",
+              "RelativeToolTip": "Misk-Task\\Program.cs",
+              "ViewState": "AgIAAA8AAABgZmZmZmYkwCEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T18:19:01.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RateLimitingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Misk-Task\\Misk-Task\\Middleware\\RateLimitingMiddleware.cs",
+              "RelativeDocumentMoniker": "Misk-Task\\Middleware\\RateLimitingMiddleware.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Misk-Task\\Misk-Task\\Middleware\\RateLimitingMiddleware.cs",
+              "RelativeToolTip": "Misk-Task\\Middleware\\RateLimitingMiddleware.cs",
+              "ViewState": "AgIAAAoAAABgZmZmZmYxwCMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T18:18:28.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Misk-Task\\Misk-Task\\Extensions\\OrderExtensions.cs",
+              "RelativeDocumentMoniker": "Misk-Task\\Extensions\\OrderExtensions.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Misk-Task\\Misk-Task\\Extensions\\OrderExtensions.cs",
+              "RelativeToolTip": "Misk-Task\\Extensions\\OrderExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T18:15:10.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Misk-Task\\Misk-Task\\Models\\Products.cs",
+              "RelativeDocumentMoniker": "Misk-Task\\Models\\Products.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Misk-Task\\Misk-Task\\Models\\Products.cs",
+              "RelativeToolTip": "Misk-Task\\Models\\Products.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T18:08:41.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Misk-Task\\Misk-Task\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Misk-Task\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Misk-Task\\Misk-Task\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Misk-Task\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T18:06:41.998Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
